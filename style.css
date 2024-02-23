@@ -1,0 +1,28 @@
+table{
+	margin-top: 50px;
+	text-align: center;
+	background: rgb(223, 136, 197);
+	color: rgb(217, 215, 225);
+}
+
+#show th, #show td{
+	padding: 13px;
+}
+
+#btna td input{
+	width: 100%;
+	
+}
+
+#icon{
+    margin: 10px 34px;
+	
+}
+
+
+#icon img{
+    height: 100px;
+    margin: 1px 5px;
+	background-color: yellow;
+	
+}
